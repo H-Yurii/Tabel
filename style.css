@@ -1,0 +1,42 @@
+th, td {
+    padding: 10px;
+    border: 2px solid #fff;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    width: 1200px;
+    height: 800px;
+    margin: 30px auto;   
+    font-family: sans-serif;
+    border-spacing: 5px;
+    background: orange;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+.title-thanks {
+    margin-top: 50px;
+    text-align: center;
+    font-style: normal;
+}
+
+.title-english {
+    text-align: center;
+    font-style: normal;
+}
+
+.title-company {
+    text-align: center;
+    font-style: normal;
+}
+
+span {
+    text-decoration: line-through;
+    color: orange;
+}
+
+
+
+
